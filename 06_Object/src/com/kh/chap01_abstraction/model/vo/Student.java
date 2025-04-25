@@ -7,6 +7,7 @@ public class Student {
 	public double height;
 	
 	// 생성자 / 생성자부
+	// ㅋㅋㅋㅋ
 	
 	// 기능 / 메서드부
 	public void study() {
