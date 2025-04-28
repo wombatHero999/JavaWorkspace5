@@ -19,6 +19,7 @@ public class A_Break {
 				break;
 			}
 		}
+		System.out.println("하이");
 	}
 	
 	Scanner sc = new Scanner(System.in);

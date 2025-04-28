@@ -4,7 +4,14 @@ public class Student {
 	// 속성 / [필드부]
 	public String name;
 	public int age;
-	public double height;
+	public static double height;
+	
+	{ 
+		name = "ㅋ";
+	}
+	static {
+		height = 150.5;
+	}
 	
 	// 생성자 / 생성자부
 	// ㅋㅋㅋㅋ
@@ -18,7 +25,6 @@ public class Student {
 		String str = this.name + "학생과 "+s.name+"학생이 싸웁니다";
 		System.out.println(str);
 	}
-	
 }
 
 

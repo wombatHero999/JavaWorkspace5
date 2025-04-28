@@ -7,7 +7,7 @@ public class Run {
 		//ab.temp();
 		
 		B_Continue bc = new B_Continue();
-		bc.method2();
+		bc.method1();
 	}
 }
 
